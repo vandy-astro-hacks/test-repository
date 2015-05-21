@@ -19,8 +19,8 @@ just a blank repository for testing cloning/pushing/pulling
 * make sure your local version is up-to-date
 * edit any file using an editor of your choice
 * `git status` to see what files you have changed since last pulling
-* `git add -p <file>` to add a single file to your next commit or `git add .` to add all changes (this does not actually send anything to the server, but just "stages" them)
-* `git commit -a` commit all "staged" changes
+* `git commit -a` will commit all your changes locally (won't send anything to the server)
+* there are more advanced options if you don't want to commit all of your local changes
 
 
 ### other commands
