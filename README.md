@@ -19,9 +19,9 @@ just a blank repository for testing cloning/pushing/pulling
 * make sure your local version is up-to-date
 * edit any file using an editor of your choice
 * `git status` to see what files you have changed since last pulling
-* `git commit -a` will commit all your changes locally (won't send anything to the server)
-* there are more advanced options if you don't want to commit all of your local changes
-
+* `git commit -a` will commit all your changes locally and will ask for you to provide a message describing your changes.  Note that this won't send anything to the server yet.
+* Note that there are more advanced options if you don't want to commit all of your local changes
+* `git merge` will send your commit to the repository so that others can get your changes via `git pull`
 
 ### other commands
 * helpful cheat sheet: http://www.git-tower.com/blog/git-cheat-sheet/
