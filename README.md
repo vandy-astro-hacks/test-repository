@@ -23,5 +23,16 @@ just a blank repository for testing cloning/pushing/pulling
 * Note that there are more advanced options if you don't want to commit all of your local changes
 * `git push` will send your commit to the repository so that others can get your changes via `git pull`
 
+### creating a new file
+* make sure your local version is up-to-date
+* create and edit a new file
+* `git add <file>` to start tracking your new file
+* `git commit -a` to commit locally
+* `git push` to send your commit to the repository
+
+### undo local changes
+* to undo all of your local changes and revert everything to as it was last time you pulled, use `git reset --hard HEAD`
+* to discard local changes for a specific file, use `git checkout HEAD <file>`
+
 ### other commands
 * helpful cheat sheet: http://www.git-tower.com/blog/git-cheat-sheet/
