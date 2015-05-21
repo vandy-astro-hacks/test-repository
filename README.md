@@ -21,3 +21,7 @@ just a blank repository for testing cloning/pushing/pulling
 * `git status` to see what files you have changed since last pulling
 * `git add -p <file>` to add a single file to your next commit or `git add .` to add all changes (this does not actually send anything to the server, but just "stages" them)
 * `git commit -a` commit all "staged" changes
+
+
+### other commands
+* helpful cheat sheet: http://www.git-tower.com/blog/git-cheat-sheet/
