@@ -1,6 +1,9 @@
+
 #Vandy AstroHacks!
 
-# Christina was here 
+
+# Testing Updating...
+
 
 # test-repository
 just a blank repository for testing cloning/pushing/pulling
@@ -40,3 +43,6 @@ just a blank repository for testing cloning/pushing/pulling
 
 ### other commands
 * helpful cheat sheet: http://www.git-tower.com/blog/git-cheat-sheet/
+
+### Meagan made edits
+* look at the helpful edits Meagan made
